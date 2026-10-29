@@ -1,4 +1,4 @@
 {
-  "base_url": "http://sockra-terbit.rzhosts.my.id:4327",
-  "ws_url": "ws://sockra-terbit.rzhosts.my.id:4327/ws-rat"
+  "base_url": "http://129.212.233.68:3001",
+  "ws_url": "ws://129.212.233.68:3001/ws-rat"
 }
